@@ -28,7 +28,7 @@ In Warehouse Dimensional Modeling use such as Star Schema, Snowflake Schema.
 
 Used the DVD rental database and PostgreSQL as a RDBMS.
 
-Here is the 3NF Database Schema. [Here](https://github.com/Manav-56/Data-Warehouse-using-PostgreSQL/blob/main/3NF%20.png)
+Here is the 3NF Database Schema. [Here] https://github.com/Akshaytank007/Data-Warehouse-using-PostgreSQL/blob/main/3NF%20.png
 
 The DVD rental database represents the business processes of a DVD rental store. The DVD rental database has many objects, including:
 
